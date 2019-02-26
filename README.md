@@ -10,6 +10,6 @@ This template allows you to deploy a VM Scale Set of NGINX Ubuntu VMs using the 
 
 ssh -p 50000 {username}@{public-ip-address}
 
-PARAMETER RESTRICTIONS
-======================
+Sample NGINX Configs:  https://github.com/jgmitter/TCPStreamBroker
+
 
